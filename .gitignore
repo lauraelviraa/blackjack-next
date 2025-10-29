@@ -1,0 +1,12 @@
+# dependências e builds
+node_modules/
+.next/
+out/
+dist/
+
+# SO / editor
+.DS_Store
+.vscode/
+
+# env local
+.env
